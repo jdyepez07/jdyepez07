@@ -2,6 +2,18 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Backend+Developer+%7C+AI+Engineer;Building+scalable+systems+with+real+AI;From+Deep+Learning+to+Production;FastAPI+%7C+Docker+%7C+PyTorch)
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/juanyepez07/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://orcid.org/0009-0002-1104-4079" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
+  <a href="mailto:juanyps16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
